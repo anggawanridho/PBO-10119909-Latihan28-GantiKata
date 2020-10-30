@@ -28,6 +28,8 @@ public class PBO10119909Latihan28 {
                 hasil += kata + " ";
             }
         }
-        System.out.println("Kalimat Baru : "+hasil.trim());
+        System.out.println("\n====Hasil Formatting====");
+        System.out.println("Kalimat awal : "+kalimat);
+        System.out.println("Kalimat baru : "+hasil.trim());
     }
 }
